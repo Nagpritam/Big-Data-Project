@@ -106,24 +106,6 @@ Namely A97 Driver is the most unsafe driver
 Geographical Spread of Violations: Violations are widespread across California, with concentrations in urban areas like San Francisco and San Diego.
 * Types of Violations: The map indicates two main types of violations: overspeed and unsafe following distance, with unsafe following distance being less common
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-)
-
 #### 2. MPG by Model (Heat Map)
 * Shows the miles per gallon for each vehicle model.
 * Darker shades represent higher MPG values.
